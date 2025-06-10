@@ -91,6 +91,12 @@ Make sure to set the `*_API_KEY` environment variables before using these APIs.
 
 Due to the optional dependencies, we're not providing a unified setup mechanism. Instead, we're providing instructions for each eval and sampler.
 
+Clone this repo
+```bash
+git clone https://github.com/openai/simple-evals
+```
+And do not enter the repo folder
+
 For [HumanEval](https://github.com/openai/human-eval/) (python programming)
 ```bash
 git clone https://github.com/openai/human-eval
